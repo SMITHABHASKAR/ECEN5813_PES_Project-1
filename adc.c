@@ -11,7 +11,7 @@
  */
 
 #include "MKL25Z4.h"
-#include "../INC/adc.h"
+//#include "../INC/adc.h"
 #include "../INC/macros.h"
 
 
